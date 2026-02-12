@@ -3,8 +3,8 @@ name: Greg Starling
 title: Technology Executive | AI Strategy & Implementation
 location: Oklahoma City, OK
 summary: Executive technology leader focused on turning AI strategy into production capability across SaaS, services, government, and regulated environments. Proven builder of teams, platforms, and partnerships, including M&A-driven capability expansion and turnaround execution.
-tags: [leadership, ai, genai, nlp, machine-learning, strategy, product, platform, m&a, governance, automation, saas, govcon, tribal, hospitality, healthcare]
-open_to: [consulting]
+tags: [leadership,ai,strategy, product, speaking, m&a, automation, saas, govcon, tribal, hospitality, healthcare]
+open_to: [consulting, speaking, advisory]
 ---
 
 # Greg Starling
