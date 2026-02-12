@@ -19,9 +19,7 @@ open_to: [consulting]
 
 ## About
 
-I build and scale technology organizations that ship. Over two decades, I’ve led platform modernization, product strategy, and high-trust execution across SaaS, managed services, government and tribal enterprises, hospitality, healthcare, and nonprofit operations. More recently, my work has centered on enterprise AI: aligning leaders, selecting the right use cases, putting governance in place, and delivering systems that reduce real work without reducing quality.
-
-If the work is “AI theater,” I’m not your guy. If the work is “make it real,” I am.
+20+ years building and scaling technology organizations across SaaS, managed services, federal contracting, and tribal government sectors. Track record of creating platforms that generate tens of millions in revenue, leading teams through successful acquisitions, and turning AI strategy into production-grade capability. Two-time Innovator of the Year. Contributing author featured in Wired, Inc., Forbes, and Entrepreneur.
 
 ---
 
