@@ -1,5 +1,94 @@
+<!--
+---
+name: Greg Starling
+title: Technology Executive | AI Strategy & Implementation
+location: Oklahoma City, OK
+contact:
+  email: gstarling@gmail.com
+
+availability:
+  status: consulting_only
+  consulting: true
+  full_time: false
+  fractional_cto: true
+  advisory: true
+  speaking: true
+  timezone: America/Chicago
+  notes: >-
+    Consulting-only. Best fit is AI strategy through implementation, operating-model design,
+    and executive advisory where real delivery is the point.
+
+skills:
+  leadership:
+    - Executive leadership and cross-functional alignment
+    - Technology strategy and operating model design
+    - Organizational design and team building
+    - Talent development, mentorship, and leadership coaching
+    - Product and engineering leadership
+    - Stakeholder management (executives, boards, partners)
+    - Strategic partnerships and ecosystem development
+    - Change leadership and turnaround execution
+    - Communication for alignment (vision, narrative, decision clarity)
+    - Budgeting, prioritization, and portfolio management
+
+  ai_leadership:
+    - Enterprise AI strategy and program design
+    - AI adoption planning and enablement
+    - AI governance and risk controls for regulated environments
+    - Use case discovery and value sizing
+    - Human-in-the-loop workflow design
+    - AI productization (packaging capabilities into offerings)
+    - Measurement of AI impact (effort reduction, quality, throughput)
+    - Executive decision support for AI investments
+
+  applied_ai_ml:
+    - Generative AI solution design and deployment
+    - NLP applications and capability integration
+    - Predictive analytics program design
+    - Intelligent automation for operational workflows
+    - Model selection and evaluation (fit-for-purpose)
+    - Data-informed workflow redesign
+
+  product_platform:
+    - Product strategy and roadmapping
+    - Platform modernization and architecture direction
+    - Delivery process design (cadence, quality, accountability)
+    - Scaling systems and teams for growth
+    - Time-to-market improvement and launch execution
+    - Build vs buy decisions and vendor strategy
+    - Systems integration (post-acquisition and partner)
+
+  m_and_a:
+    - Acquisition evaluation and technical diligence
+    - Integration planning and execution
+    - Capability mapping and gap analysis
+    - Post-merger team and platform consolidation
+
+  operations:
+    - Process optimization and efficiency improvement
+    - Service quality preservation during change
+    - Metrics-driven execution and continuous improvement
+    - Lean thinking (Lean Six Sigma Black Belt)
+
+domains:
+  - AI strategy, governance, and implementation
+  - SaaS platforms for small business marketing
+  - Managed services and technology services delivery
+  - Government and federal contracting
+  - Tribal government and tribal enterprises
+  - Commercial organizations (multi-industry)
+  - Hospitality technology and guest experience platforms
+  - Healthcare experience and service enablement
+  - Nonprofit and church operations at scale (multi-campus growth)
+  - Crowd-sourced inspections (insurance, investment, consumer services)
+  - Employee engagement, recognition, and retention platforms
+  - M&A-driven capability expansion (NLP, ML, neural networks)
+  - Partnership ecosystems (Apple, Airbnb, commercial alliances)
+---
+-->
+
 # Greg Starling
-Oklahoma City, OK • 405.778.9330 • gstarling@gmail.com
+Oklahoma City, OK • gstarling@gmail.com
 
 ## Technology Executive | AI Strategy & Implementation
 20+ years building and scaling technology organizations across SaaS, managed services, federal contracting, and tribal government sectors. Track record of creating platforms that generate tens of millions in revenue, leading teams through successful acquisitions, and turning AI strategy into production-grade capability. Two-time Innovator of the Year. Contributing author featured in Wired, Inc., Forbes, and Entrepreneur.
